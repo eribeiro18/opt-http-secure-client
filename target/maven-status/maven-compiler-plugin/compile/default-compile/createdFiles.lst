@@ -1,0 +1,11 @@
+br/com/opt/http/secure/client/security/exception/ClientSecurityException.class
+br/com/opt/http/secure/client/security/commons/ClientHttpsSecurityCommons.class
+br/com/opt/http/secure/client/security/util/XmlJaxbHandler.class
+br/com/opt/http/secure/client/security/util/XmlJaxbHandler$XmlJaxbHandlerBuilder.class
+br/com/opt/http/secure/client/security/TlsSecurityConfigurator$TlsSecurityConfiguratorBuilder.class
+br/com/opt/http/secure/client/security/exception/NFeXmlSignerException.class
+br/com/opt/http/secure/client/security/exception/XmlJaxbHandlerException.class
+br/com/opt/http/secure/client/security/util/NFeXmlSigner.class
+br/com/opt/http/secure/client/security/util/NFeXmlSigner$NFeXmlSignerBuilder.class
+br/com/opt/http/secure/client/security/TlsSecurityConfigurator.class
+br/com/opt/http/secure/client/security/ClientHttpsSecurity.class
