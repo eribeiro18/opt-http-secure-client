@@ -1,7 +1,0 @@
-app:
-  directory:
-    path: ${CERTIFICATE_PATH:./environment/cert/}
-
-spring:
-  application:
-    name: opt-http-secure-client

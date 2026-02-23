@@ -1,8 +1,0 @@
-/home/evandro/workspace/optimus/opt-http-secure-client/src/main/java/br/com/opt/http/secure/client/security/ClientHttpsSecurity.java
-/home/evandro/workspace/optimus/opt-http-secure-client/src/main/java/br/com/opt/http/secure/client/security/TlsSecurityConfigurator.java
-/home/evandro/workspace/optimus/opt-http-secure-client/src/main/java/br/com/opt/http/secure/client/security/commons/ClientHttpsSecurityCommons.java
-/home/evandro/workspace/optimus/opt-http-secure-client/src/main/java/br/com/opt/http/secure/client/security/exception/ClientSecurityException.java
-/home/evandro/workspace/optimus/opt-http-secure-client/src/main/java/br/com/opt/http/secure/client/security/exception/NFeXmlSignerException.java
-/home/evandro/workspace/optimus/opt-http-secure-client/src/main/java/br/com/opt/http/secure/client/security/exception/XmlJaxbHandlerException.java
-/home/evandro/workspace/optimus/opt-http-secure-client/src/main/java/br/com/opt/http/secure/client/security/util/NFeXmlSigner.java
-/home/evandro/workspace/optimus/opt-http-secure-client/src/main/java/br/com/opt/http/secure/client/security/util/XmlJaxbHandler.java
