@@ -27,7 +27,7 @@ import java.text.Normalizer;
 
 @Builder
 @Data
-public class    XmlJaxbHandler implements Serializable {
+public class XmlJaxbHandler implements Serializable {
 	
     private static final long serialVersionUID = 1L;
     private Class<?> clazz;
